@@ -1,0 +1,84 @@
+# All transactions (of all cardholders) less than $2.00
+small_transactions_ungrouped = all_transactions[all_transactions['amount'] < 2.00]
+
+# "Small transactions" (< $2.00) grouped by cardholder
+small_transactions_grouped = small_transactions_ungrouped.groupby('cardholder').amount.count().sort_values(ascending=False)
+
+# Small transactions plot
+small_transactions_plt = px.scatter(
+    small_transactions_grouped,
+    x=small_transactions_grouped.index,
+    y=small_transactions_grouped.values
+)
+
+# Count of transactions per cardholder
+total_transactions_counts = all_transactions.groupby('cardholder').amount.count()
+
+# Ratio of small transactions to total transactions (by cardholder)
+ratio_small_to_total = (small_transactions_grouped / total_transactions_counts).sort_values(ascending=False)
+
+
+
+## Extra:
+
+# We could perhaps use a parallel categories diagram to compare both of these
+# subsets of the data.
+# If a cardholder has a high ratio of small transactions AND a high count
+# of STs, then perhaps that's a bad sign.
+
+# new_df = pd.concat([ratio_small_to_total, small_transactions_grouped], axis=1, keys=['ratio', 'count'])
+# px.parallel_categories(
+#     new_df.reset_index().sort_values(by='count', ascending=False),
+#     dimensions=['ratio', 'count']
+# )
+
+
+
+
+
+### From Part 2
+
+# First get the months in which CH 25 made transactions
+
+# Query to get the months
+months_query = '''
+SELECT DISTINCT date_part
+FROM (
+    SELECT EXTRACT (MONTH FROM cct.time)
+    FROM card_holder ch
+        JOIN credit_card cc
+            ON cc.card_holder_id = ch.id
+        JOIN cc_transaction cct
+            ON cct.cc = cc.number
+    WHERE ch.id = 25
+) AS transaction_months;
+'''
+
+# Save query results
+tx_months_df = pd.read_sql(months_query, engine)
+
+# Get a list of months as ints instead of floats
+months = list(map(int, list(tx_months_df.date_part)))
+
+ch25_query = '''
+    SELECT cct.time, cct.amount
+    FROM card_holder ch
+        JOIN credit_card cc
+            ON cc.card_holder_id = ch.id
+        JOIN cc_transaction cct
+            ON cct.cc = cc.number
+    WHERE ch.id = 25
+        AND EXTRACT(MONTH FROM cct.time) = {}
+'''
+
+ch25_txs = [pd.read_sql(ch25_query.format(month), engine) for month in months]
+
+# change the numeric month to month names
+for month_set in ch25_txs:
+    # Get the month name by looking at first element in dataframe
+#     month_name = month_set.loc[0].time.strftime('%B')
+    month_set['time'] = month_set['time'].dt.strftime('%Y-%B-%d')
+    # Set the rest of the elements `time` field
+#     month_set['time'] = month_name
+ch25_txs[0]
+

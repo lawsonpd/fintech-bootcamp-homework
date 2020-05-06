@@ -1,0 +1,15 @@
+for m in range(num_simulations):
+        simulated_prices_all = {}
+        for k, v in zip(last_close_prices.index, returns_means):
+            simulated_prices_all[k] = [v]
+        
+        for _ in range(num_records):
+            for k, v in simulated_prices_all.items():
+                
+            simulated_prices = [get_simulated_price(simulated_prices_all[i][-1], returns_means[i], returns_stds[i]) for i, _ in enumerate()]
+            
+            simulated_prices.append(simulated_price)
+
+
+def get_simulated_price(val, returns_mean, returns_std):
+    return val * (1 + np.random.normal(returns_mean, returns_std))
