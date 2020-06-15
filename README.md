@@ -14,11 +14,7 @@ There are several files in each of the weekly folders, so below I've provided li
 
 All assignments were made using [Jupyter](https://jupyter.org/) notebooks. Github will render these as static notebook layouts, so they typically take a few seconds to load when viewing in Github.
 
-### Week 1
-
-_NA_
-
-### Week 2: Python
+### Weeks 1 & 2: Python
 
 [Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/02-Python/PyBank/main.ipynb)
 
