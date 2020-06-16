@@ -106,13 +106,11 @@ _**Forthcoming:**_
 
 ## Program Info
 
-From [vanderbilt.edu](https://bootcamps.vanderbilt.edu/fintech/):
-
-> The field of finance is evolving. Financial services firms, insurance agencies, and investment banks are all increasingly at the intersection of data and technology, harnessing algorithms, machine learning, big data, and blockchain to conduct business. Through hands-on classes in a convenient part-time format, Vanderbilt University FinTech Boot Camp gives students the knowledge they need to move toward the financial technology industry. With a project-based curriculum, students gain ample experience with a host of popular tools and methods such as Python programming, financial libraries, machine learning algorithms, Ethereum, and blockchain.
+> The field of finance is evolving. Financial services firms, insurance agencies, and investment banks are all increasingly at the intersection of data and technology, harnessing algorithms, machine learning, big data, and blockchain to conduct business. Through hands-on classes in a convenient part-time format, Vanderbilt University FinTech Boot Camp gives students the knowledge they need to move toward the financial technology industry. With a project-based curriculum, students gain ample experience with a host of popular tools and methods such as Python programming, financial libraries, machine learning algorithms, Ethereum, and blockchain. [1][1]
 
 ### Curriculum
 
-> Students will obtain marketable skills, learning how these fundamental concepts are leveraged within financial fields from financial planning to hedge funds, as well as best practices for using these skills to add value to an organization. The competitive curriculum covers:
+> Students will obtain marketable skills, learning how these fundamental concepts are leveraged within financial fields from financial planning to hedge funds, as well as best practices for using these skills to add value to an organization. The competitive curriculum covers: [1][1]
 
 #### Financial Fundamentals
 
@@ -161,3 +159,5 @@ From [vanderbilt.edu](https://bootcamps.vanderbilt.edu/fintech/):
 - API Interactions
 - Amazon Web Services
 - NoSQL
+
+[1]: https://bootcamps.vanderbilt.edu/fintech "Vanderbilt.edu"
