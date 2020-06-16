@@ -1,6 +1,6 @@
-_Updated June 15, 2020_
-
 # Peter Lawson's homework from Vanderbilt University FinTech Bootcamp (summer-fall 2020)
+
+_Updated June 15, 2020_
 
 _For details about the program, see [Program Info](#Program-Info) below._
 
@@ -8,9 +8,9 @@ This bootcamp has been exciting and inspiring. The fintech and data science fron
 
 ## Overview
 
-This repo holds the majority of the work I did for the 24-week bootcamp. There were weekly individuals assignments and group projects; the group projects are housed in separate repos (relevant links are provided).
+This repo holds the majority of the work I did for the 24-week bootcamp. There were weekly individuals assignments and group projects; the group projects are housed in separate repos (links are provided).
 
-There are several files in each of the weekly folders, so below I've provided links to the main notebook(s) containing my coded solution(s).
+There are several files in each of the weekly folders, so below I've provided links to the main notebook(s) containing my coded solution(s). The instructional file for each notebook can be found as a readme.md file in the same folder.
 
 All assignments were made using [Jupyter](https://jupyter.org/) notebooks. Github will render these as static notebook layouts, so they typically take a few seconds to load when viewing in Github.
 
@@ -64,7 +64,7 @@ In this assignment there were several contributors, but my task was to build a m
 
 [Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/10-TimeSeries/10-Time%20Series/Instructions/README.md)
 
-### Week 11:
+### Week 11: Machine Learning
 
 [Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/11-Machine-Learning/Starter_Code/credit_risk_resampling.ipynb)
 
@@ -161,4 +161,3 @@ From [vanderbilt.edu](https://bootcamps.vanderbilt.edu/fintech/):
 - API Interactions
 - Amazon Web Services
 - NoSQL
-
