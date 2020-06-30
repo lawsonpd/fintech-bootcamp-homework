@@ -8,12 +8,16 @@ For each training set, we choose a window size that determines how many prior da
 
 ## Results
 
+### Loss metrics
+
 The models performed nearly the same in terms of loss (mean squared error) evaluation. The loss values were:
 
 - RNN trained on FNG: **0.1548**
 - RNN trained on closing prices: **0.1823**
 
 I find these results somewhat surprising, since I would expect any machine learning model to perform better when trained on incontrovertible financial data than when trained on numerical data based on human sentiment. It is known, however, that there are myriad feedback loops involving the psychology of traders, the chatter of media outlets and the rest of the financial ecosystem that can coax the price of securities to and fro.
+
+### Plot interpretation
 
 From a more intuitive reading we might notice a more significant difference between the models. At the bottom of each notebook we have a plot showing the real and predicted values of the test sets.
 
