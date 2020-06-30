@@ -1,0 +1,5 @@
+Improve dir structure so that it's clear where student work is.
+Currently I'm modifying the notebooks in "Starter_Code" and leaving
+them in that folder, but they should be moved out - probably into
+the top dir for that week's homework.
+
