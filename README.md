@@ -52,7 +52,9 @@ All assignments were made using [Jupyter](https://jupyter.org/) notebooks. Githu
 
 ### Weeks 8 & 9: Group project I
 
-In this assignment there were several contributors, but my task was to build a module that, given a list of stock tickers (i.e. an investment portfolio), analyzes the predicted returns of the portfolio based on an aggregation of Monte Carlo simulations.
+In this group project my task was to build a module that, given a list of stock tickers (i.e. an investment portfolio), analyzes the predicted returns of the portfolio based on an aggregation of Monte Carlo simulations.
+
+[Project summary](https://github.com/lawsonpd/Coming-Back-from-COVID-19-A-Short-Term-Portfolio-Plan/blob/master/README.md)
 
 [Portfolio analysis notebook](https://github.com/VandyFinTech2020/Project01/blob/master/Project01-Portfolio-Analysis.ipynb)
 
@@ -88,19 +90,57 @@ _**Forthcoming:**_
 
 ### Week 14: Deep learning
 
+[Summary](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week14-DeepLearning/Instructions/Starter_Code/Summary.md)
+
+[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week14-DeepLearning/Instructions/Starter_Code/lstm_stock_predictor_closing.ipynb)
+
+[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week14-DeepLearning/Instructions/Starter_Code/lstm_stock_predictor_fng.ipynb)
+
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week14-DeepLearning/Instructions/README.md)
+
 ### Week 15: Algorithmic trading
+
+There was no assignment this week but here are links to the classwork:
+
+[Week 15.1](https://github.com/lawsonpd/fintech-bootcamp/tree/master/Classwork-S15.1)
+
+[Week 15.2](https://github.com/lawsonpd/fintech-bootcamp/tree/master/Classwork-S15.2)
+
+[Week 15.3](https://github.com/lawsonpd/fintech-bootcamp/tree/master/Classwork-S15.3)
 
 ### Weeks 16 & 17: Group project II
 
+
+
 ### Week 18: Blockchain
+
+[Solution]()
+
+[Instructions]()
 
 ### Week 19: Blockchain with Python
 
+[Solution]()
+
+[Instructions]()
+
 ### Week 20: Smart contracts with Solidity
+
+[Solution]()
+
+[Instructions]()
 
 ### Week 21: Advanced Solidity
 
+[Solution]()
+
+[Instructions]()
+
 ### Week 22: Decentralized apps
+
+[Solution]()
+
+[Instructions]()
 
 ### Weeks 23 & 24: Group project III
 
