@@ -1,7 +1,5 @@
 # Peter Lawson's homework from Vanderbilt University FinTech Bootcamp (summer-fall 2020)
 
-_Updated June 15, 2020_
-
 _For details about the program, see [Program Info](#Program-Info) below._
 
 This bootcamp was exciting and inspiring. The fintech and data science frontier will continue to unfold and evolve in myriad ways. I'm eager to explore the real-world landscape with these powerful new tools and ways of thinking about business problems. I completed the bootcamp with a broad, practical understanding of how coding and data analysis can be used to make more sophisticated and informed business decisions. It was also amazing to enter the strange world of cryptocurrencies and de-fi and see how these new technologies challenge the way we think about programming and economics.
