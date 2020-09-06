@@ -172,7 +172,6 @@ I helped write the Solidity contracts that embody the logic of our crowdfund mod
 
 #### Financial Fundamentals
 
-- Advanced Excel
 - Time-Series Analysis
 - Financial Ratios
 - Financial Analysis
@@ -189,13 +188,16 @@ I helped write the Solidity contracts that embody the logic of our crowdfund mod
 - Cryptocurrency
 - Truffle Suite
 - Ganache
+- Kovan Test Network
 
 #### Financial Libraries and Tools
 
 - NumPy
 - SciPy
-- Ffn
-- Quantopian
+- Postgresql
+- Alpaca API
+- Plaid API
+- Matplotlib (visualization)
 
 #### Machine Learning Applications in Finance
 
@@ -203,11 +205,13 @@ I helped write the Solidity contracts that embody the logic of our crowdfund mod
 - Random Forests
 - k-Nearest Neighbors (kNN)
 - Support Vector Machines (SVM)
+- Deep Learning
 - Linear Regression
 - Scikit-learn
 - Financial Modeling
 - Forecasting
 - Logistic Regression
+- Natural Language Processing
 
 #### Financial Programming
 
@@ -216,6 +220,10 @@ I helped write the Solidity contracts that embody the logic of our crowdfund mod
 - Matplotlib
 - API Interactions
 - Amazon Web Services
-- NoSQL
+
+#### General Programming
+
+- Git
+- Jupyter Notebooks
 
 [1]: https://bootcamps.vanderbilt.edu/fintech "Vanderbilt.edu"
