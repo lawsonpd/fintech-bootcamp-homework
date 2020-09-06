@@ -16,11 +16,11 @@ All assignments were made using [Jupyter](https://jupyter.org/) notebooks. Githu
 
 ### Weeks 1 & 2: Python
 
-[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/02-Python/PyBank/main.ipynb)
+[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week2-Python/PyBank/main.ipynb)
 
-[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/02-Python/PyRamen/main.ipynb)
+[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week2-Python/PyRamen/main.ipynb)
 
-[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/02-Python/README.md)
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week2-Python/README.md)
 
 ### Weeks 3 & 4: Pandas
 
