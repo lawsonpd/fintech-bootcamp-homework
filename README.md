@@ -88,8 +88,6 @@ My task was to build a module that, given a list of stock tickers (i.e. an inves
 
 [Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/13-AWS-Lex/Instructions/README.md)
 
-_**Forthcoming:**_
-
 ### Week 14: Deep learning
 
 [Summary](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week14-DeepLearning/Instructions/Starter_Code/Summary.md)
