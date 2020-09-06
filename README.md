@@ -4,15 +4,15 @@ _Updated June 15, 2020_
 
 _For details about the program, see [Program Info](#Program-Info) below._
 
-This bootcamp has been exciting and inspiring. The fintech and data science frontier will continue to unfold and evolve in myriad ways. I'm eager to explore the real-world landscape with these powerful new tools and ways of thinking about business problems. I intend to maintain my current 3.9 GPA and complete the bootcamp with a broad, practical understanding of how coding and data analysis can be used to make more sophisticated and informed business decisions.
+This bootcamp was exciting and inspiring. The fintech and data science frontier will continue to unfold and evolve in myriad ways. I'm eager to explore the real-world landscape with these powerful new tools and ways of thinking about business problems. I completed the bootcamp with a broad, practical understanding of how coding and data analysis can be used to make more sophisticated and informed business decisions. It was also amazing to enter the strange world of cryptocurrencies and de-fi and see how these new technologies challenge the way we think about programming and economics.
 
 ## Overview
 
-This repo holds the majority of the work I did for the 24-week bootcamp. There were weekly individuals assignments and group projects; the group projects are housed in separate repos (links are provided).
+This repo holds the majority of the work I did for the 24-week bootcamp. There were weekly individuals assignments and group projects; the group projects and some assignments are housed in separate repos (links are provided).
 
-There are several files in each of the weekly folders, so below I've provided links to the main notebook(s) containing my coded solution(s). The instructional file for each notebook can be found as a readme.md file in the same folder.
+There are several files in each of the weekly folders, so below I've provided links to the main files containing my coded solution(s).
 
-All assignments were made using [Jupyter](https://jupyter.org/) notebooks. Github will render these as static notebook layouts, so they typically take a few seconds to load when viewing in Github.
+Many assignments were made using [Jupyter](https://jupyter.org/) notebooks. Github will render these as static notebook layouts, so they typically take a few seconds to load when viewing in Github.
 
 ### Weeks 1 & 2: Python
 
