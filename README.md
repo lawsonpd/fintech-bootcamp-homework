@@ -146,11 +146,25 @@ My role in this project was to build the machine learning module that retrieves 
 
 ### Week 22: Decentralized apps
 
-[Solution]()
+There was no assignment this week, but here are links to the classwork:
 
-[Instructions]()
+[Week 22.1](https://github.com/lawsonpd/fintech-bootcamp/tree/master/Classwork-S22.1)
+
+[Week 22.2](https://github.com/lawsonpd/fintech-bootcamp/tree/master/Classwork-S22.2)
 
 ### Weeks 23 & 24: Group project III
+
+For the final project, we conceived of a crowdfunding model that would let a startup raise funds by selling Ethereum ERC20 fungible tokens. After the funds are raised, a portion of the ETH (Ethereum's native currency) would be converted to a stable coin, which could be used by the startup to fund operations, and the rest would be lent on the Compound system whereby it would earn interest. At some time down the line the tokens would be converted back to ETH, which would be returned to the crowdfunders.
+
+I helped write the Solidity contracts that embody the logic of our crowdfund model.
+
+[Summary](https://github.com/lawsonpd/StartingCapital/blob/master/README.md)
+
+[Main contract](https://github.com/lawsonpd/StartingCapital/blob/master/P3Compound.sol)
+
+[Crowdsale contracts](https://github.com/lawsonpd/StartingCapital/blob/master/P3Crowdsale.sol)
+
+[Token contract](https://github.com/lawsonpd/StartingCapital/blob/master/P3TokenMintable.sol)
 
 ## Program Info
 
