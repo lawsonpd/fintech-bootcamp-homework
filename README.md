@@ -24,31 +24,31 @@ All assignments were made using [Jupyter](https://jupyter.org/) notebooks. Githu
 
 ### Weeks 3 & 4: Pandas
 
-[Whale analysis](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/04-Pandas/whale_analysis.ipynb)
+[Whale analysis](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week4-Pandas/whale_analysis.ipynb)
 
 (Instructions NA)
 
 ### Week 5: APIs
 
-[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/05-APIS/Instructions/Starter_Code/account_summary.ipynb)
+[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week5-APIs/Instructions/Starter_Code/account_summary.ipynb)
 
-[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/05-APIS/Instructions/Starter_Code/portfolio_planner.ipynb)
+[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week5-APIs/Instructions/Starter_Code/portfolio_planner.ipynb)
 
-[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/05-APIS/Instructions/README.md)
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week5-APIs/Instructions/README.md)
 
 ### Week 6: PyViz
 
-[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/06-PyViz/Instructions/Starter_Code/rental_analysis.ipynb)
+[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week6-PyViz/Instructions/Starter_Code/rental_analysis.ipynb)
 
-[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/06-PyViz/Instructions/Starter_Code/dashboard.ipynb)
+[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week6-PyViz/Instructions/Starter_Code/dashboard.ipynb)
 
-[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/06-PyViz/Instructions/README.md)
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week6-PyViz/Instructions/README.md)
 
 ### Week 7: SQL
 
-[Solution](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/07-SQL/visual_data_analysis.ipynb)
+[Solution](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week7-SQL/visual_data_analysis.ipynb)
 
-[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/07-SQL/Instructions/README.md)
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week7-SQL/Instructions/README.md)
 
 ### Weeks 8 & 9: Group project I
 
@@ -56,37 +56,37 @@ In this group project we developed a scenario in which a portfolio manager was t
 
 My task was to build a module that, given a list of stock tickers (i.e. an investment portfolio), analyzes the predicted returns of the portfolio based on an aggregation of Monte Carlo simulations.
 
-[Project summary](https://github.com/lawsonpd/Coming-Back-from-COVID-19-A-Short-Term-Portfolio-Plan/blob/master/README.md)
+[Project summary](https://github.com/lawsonpd/vandy-fintech-bootcamp-project1/blob/master/README.md)
 
-[Portfolio analysis notebook](https://github.com/VandyFinTech2020/Project01/blob/master/Project01-Portfolio-Analysis.ipynb)
+[Portfolio analysis notebook](https://github.com/lawsonpd/vandy-fintech-bootcamp-project1/blob/master/Project01-Portfolio-Analysis.ipynb)
 
 ### Week 10: Time series
 
-[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/10-TimeSeries/10-Time%20Series/Instructions/Starter_Code/time_series_analysis.ipynb)
+[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week10-TimeSeries/10-Time%20Series/Instructions/Starter_Code/time_series_analysis.ipynb)
 
-[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/10-TimeSeries/10-Time%20Series/Instructions/Starter_Code/regression_analysis.ipynb)
+[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week10-TimeSeries/10-Time%20Series/Instructions/Starter_Code/regression_analysis.ipynb)
 
-[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/10-TimeSeries/10-Time%20Series/Instructions/README.md)
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week10-TimeSeries/10-Time%20Series/Instructions/README.md)
 
 ### Week 11: Machine Learning
 
-[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/11-Machine-Learning/Starter_Code/credit_risk_resampling.ipynb)
+[Solution part 1](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week11-MachineLearning/Starter_Code/credit_risk_resampling.ipynb)
 
-[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/11-Machine-Learning/Starter_Code/credit_risk_ensemble.ipynb)
+[Solution part 2](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week11-MachineLearning/Starter_Code/credit_risk_ensemble.ipynb)
 
-[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/11-Machine-Learning/README.md)
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week11-MachineLearning/README.md)
 
 ### Week 12: NLP
 
-[Solution](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/12-NLP/Instructions/Starter_Code/crypto_sentiment.ipynb)
+[Solution](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week12-NLP/Instructions/Starter_Code/crypto_sentiment.ipynb)
 
-[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/12-NLP/Instructions/README.md)
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week12-NLP/Instructions/README.md)
 
 ### Week 13: AWS Lex & Lambda
 
 [Solution](https://github.com/lawsonpd/unit13-challenge/blob/master/ClusteringCrypto/crypto_clustering.ipynb)
 
-[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/13-AWS-Lex/Instructions/README.md)
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week13-AWS-Lex/Instructions/README.md)
 
 ### Week 14: Deep learning
 
