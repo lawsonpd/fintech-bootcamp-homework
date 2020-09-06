@@ -52,7 +52,9 @@ All assignments were made using [Jupyter](https://jupyter.org/) notebooks. Githu
 
 ### Weeks 8 & 9: Group project I
 
-In this group project my task was to build a module that, given a list of stock tickers (i.e. an investment portfolio), analyzes the predicted returns of the portfolio based on an aggregation of Monte Carlo simulations.
+In this group project we developed a scenario in which a portfolio manager was tasked with selecting one of a handful of portfolios, given the context of the COVID-19 pandemic. We used ante- and intra-COVID stock price data to simulate future prices. 
+
+My task was to build a module that, given a list of stock tickers (i.e. an investment portfolio), analyzes the predicted returns of the portfolio based on an aggregation of Monte Carlo simulations.
 
 [Project summary](https://github.com/lawsonpd/Coming-Back-from-COVID-19-A-Short-Term-Portfolio-Plan/blob/master/README.md)
 
@@ -110,25 +112,31 @@ There was no assignment this week but here are links to the classwork:
 
 ### Weeks 16 & 17: Group project II
 
+The second project was conceived as an continuance of project I. Using the additional tools of machine learning and natural language processing, we created a chatbot interface that would allow a hypothetical investor to choose an arbitrary portfolio of stocks. Behind the scenes, we retrieved stock data from an API and predicted future prices.
 
+My role in this project was to build the machine learning module that retrieves prices, creates price models using a long-term short-term neural network and returns the prediction data to the chatbot.
+
+[Summary](https://github.com/lawsonpd/vandy-fintech-bootcamp-project2/blob/master/README.md)
+
+[Stock portfolio prediction module](https://github.com/lawsonpd/stock-portfolio-ml-model/blob/master/README.md)
 
 ### Week 18: Blockchain
 
-[Solution]()
+[Solution](https://github.com/lawsonpd/fintech-testgeth-homework/blob/master/README.md)
 
-[Instructions]()
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week18-Blockchain/18-Blockchain/Instructions/README.md)
 
 ### Week 19: Blockchain with Python
 
-[Solution]()
+[Solution](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week19-Blockchain-Python/README.md)
 
-[Instructions]()
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week19-Blockchain-Python/Instructions/README.md)
 
 ### Week 20: Smart contracts with Solidity
 
-[Solution]()
+[Solution](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week20-Solidity/README.md)
 
-[Instructions]()
+[Instructions](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week20-Solidity/Instructions/README.md)
 
 ### Week 21: Advanced Solidity
 
