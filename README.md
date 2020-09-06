@@ -22,7 +22,7 @@ Many assignments were made using [Jupyter](https://jupyter.org/) notebooks. Gith
 
 ### Weeks 3 & 4: Pandas
 
-[Whale analysis](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week4-Pandas/whale_analysis.ipynb)
+[Solution](https://github.com/lawsonpd/fintech-bootcamp-homework/blob/master/Week4-Pandas/whale_analysis.ipynb)
 
 (Instructions NA)
 
